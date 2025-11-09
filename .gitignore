@@ -7,6 +7,8 @@ yarn-error.log*
 # TypeScript
 *.tsbuildinfo
 *.js.map
+*.d.ts
+*.d.ts.map
 
 # IDE
 .vscode/*
